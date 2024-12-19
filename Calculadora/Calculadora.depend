@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734638794 source:/mnt/pwnhawk/GitHub/POO C++/Calculadora/src/calculadora.cpp
+	"calculadora.h"
+	<stdexcept>
+
+1734638777 /mnt/pwnhawk/GitHub/POO C++/Calculadora/include/calculadora.h
+
